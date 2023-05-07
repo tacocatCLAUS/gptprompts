@@ -1,4 +1,4 @@
 # gptprompts
 
 ## this is the website for 
-[gptp] (https://github.com/tacocatCLAUS/gptp)
+[gptp](https://github.com/tacocatCLAUS/gptp)
