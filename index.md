@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="fdd5cb10-07d6-4961-a894-01590bdc38f2.png" alt="icon" style="width: 65px; height: 65px"><br>
+  <img src="9946e135-3794-4f07-8e63-5c232515ec67.png" alt="icon" style="width: 65px; height: 65px"><br>
   GPTPʀᴏᴍᴘᴛꜱ
 </h1>
 
