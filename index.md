@@ -2,10 +2,20 @@
   <img src="9946e135-3794-4f07-8e63-5c232515ec67.png" alt="icon" style="width: 65px; height: 65px"><br>
   GPTPʀᴏᴍᴘᴛꜱ
 </h1>
+<p align="center">
+  <a href="https://github.com/tacocatCLAUS/gptp/wiki"><img src="https://img.shields.io/badge/WIKI-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Run on Repl.it"></a>
+  <a href="https://github.com/tacocatCLAUS/gptp/"><img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="Run on Repl.it"></a>
+</p>
 
 >_"Very smart people have found a way to outmaneuver the limits of ChatGPT and unleash its unfiltered, opinionated, and untethered alter-ego: DAN (Do Anything Now). It’s so simple that anyone can access the jailbreak simply by copying and pasting a prewritten paragraph of text into the chatbot"_
 >
 > \- [iflscience.com](https://www.iflscience.com/how-to-unlock-dan-the-unfiltered-and-opinionated-alter-ego-of-chatgpt-67754)
+
+![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🔍 About
+
+GPTPʀᴏᴍᴘᴛꜱ is a comprehensive and diverse resource for Chat GPT prompts collected by [**CLAUS**](https://claus.rf.gd), boasting an extensive collection of prompts that cover a broad range of topics and use cases. Whether you want to jailbreak GPT, generate code, or simply have fun with a lot of prompts, GPTPʀᴏᴍᴘꜱ can provide you with a wealth of prompts to choose from. Much more information in the [**WIKI**](https://github.com/tacocatCLAUS/gptp/wiki).
 
 ![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
