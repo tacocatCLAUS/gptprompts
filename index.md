@@ -21,7 +21,7 @@ GPTPʀᴏᴍᴘᴛꜱ is a comprehensive and diverse resource for Chat GPT promp
 
 ## ⚙️ Getting Started
 
-To get started install any userscript manager extension in your browser, such as [**Tampermonkey**](https://www.tampermonkey.net/), [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [**Violentmonkey**](https://violentmonkey.github.io/), then click <a href="https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js" target="_blank"><b>here</b></a> for a clean installation of a script you can use to disable [moderation of gpt messages](). 
+To get started install any userscript manager extension in your browser, such as [**Tampermonkey**](https://www.tampermonkey.net/), [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [**Violentmonkey**](https://violentmonkey.github.io/), then click <a href="https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js" target="_blank"><b>here</b></a> for a clean installation of a script you can use to disable [moderation of gpt messages](https://github.com/tacocatCLAUS/gptp/wiki/Moderation-Scripts). 
 
 
 ![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
